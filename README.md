@@ -1,0 +1,1 @@
+Built a dynamic menu-driven application utilizing core Java concepts and the Collection API to streamline Booking operations for a new Travels and Logistics company. Designed functionality that enables users to choose source, destination, travel date, and number of passengers, incorporating validations for date, source, destination, and available vacancies.
